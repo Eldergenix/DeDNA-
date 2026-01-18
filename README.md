@@ -1,6 +1,10 @@
 # Genome Copilot 🧬
 **AI-Interactive Genomic Visualization + Variant Risk Screening (Research-Grade / Informational)**
 
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Nexis-AI/branding-assets/refs/heads/main/nex_banner.png" alt="Nexis AI Banner" width="100%" />
+</div>
+
 Genome Copilot is a **privacy-first genomic application** that lets users upload their DNA/genetic data, explore an **interactive genome viewer**, and chat with an **AI copilot** that explains variants and **jumps to the exact genomic region** being discussed.
 
 > **Important Disclaimer**
